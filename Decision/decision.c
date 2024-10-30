@@ -24,7 +24,7 @@ int maain() {
                         printf('you got an A')
                     }
                 }
-
+     
             }
         }
     }
