@@ -18,3 +18,4 @@ int index;
 for (index = 0; index < 5; index++)
 the_array[index] *= multiplier;
 }
+   
