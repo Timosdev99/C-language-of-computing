@@ -30,7 +30,7 @@ for (allchars)
 {
 if (isalpha(ch))  
 {
-printf ("%c ",ch);
+printf ("%c ",ch);  
 }
 }
 printf ("\n\nVALID CHARACTERS FROM isupper:\n\n");
