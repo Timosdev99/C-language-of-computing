@@ -25,7 +25,7 @@ if (isalnum(ch))
 printf ("%c ",ch);
 }
 }
-printf ("\n\nVALID CHARACTERS FROM isalpha:\n\n");
+printf ("\n\nVALID CHARACTERS FROM isalpha:\n\n");   
 for (allchars)
 {
 if (isalpha(ch))
