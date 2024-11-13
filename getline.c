@@ -20,3 +20,4 @@ puts (my_string);
 return 0;
 }
    
+   //bytes_read = getdelim (&my_string, &nbytes, ’\n’, stdin);
