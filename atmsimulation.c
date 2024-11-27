@@ -20,9 +20,9 @@ printf("input atm pin:");
 scanf("%d", &input_pin);
 
 if(atm_pin == input_pin && atm_number == input_number ) {
-    printf("your balance is = %d", balance)
+    printf("your balance is = %d", balance);
 } else {
-    printf("error wrong details")
+    printf("error wrong details");
 }
 
 return 0;

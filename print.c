@@ -6,7 +6,7 @@ int my_integer = -42;
 unsigned int my_ui = 23;
 float my_float = 3.56;
 double my_double = 424242.171717;
-char my_char = ’w’;
+char my_char = "w";
 char my_string[] = "Pardon me, may I borrow your nose?";
 printf ("Integer: %d\n", my_integer);
 printf ("Unsigned integer: %u\n", my_ui);

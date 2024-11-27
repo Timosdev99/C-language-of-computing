@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include <stdio.h>;
+#include <stdlib.h>;
 
 void print_stuff (int foo, int bar);
 int calc_value (int bas, int quux);
